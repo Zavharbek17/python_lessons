@@ -8,5 +8,11 @@ Created on Fri Jun 27 09:17:22 2025
 #Dictionary (Lug'at)
 
 car_0 ={'model':'ferrare', 'rang':'qizil'}
-print(car_0['model'])
-print(car_0['rang'])
+#print(car_0['model'])
+#print(car_0['rang'])
+
+eng_uz = {'apple': 'olma','apricot':"o'rik", 'banana':"banan"}
+print(eng_uz['apple'])
+
+mevalar = {'olma': 10000, 'tarvuz':8000, 'qovun': 10000}
+print(f"Olma narxi {mevalar['olma']}") 
